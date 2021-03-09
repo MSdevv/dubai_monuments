@@ -1,16 +1,16 @@
-# foody
+### Dubai monuments
 
-A new Flutter project.
 
-## Getting Started
+This is a very basic application highlighting some monuments in Dubai with rating stars.
+I made this app to practice creating an application with a beautiful design from a model on Adobe XD.
 
-This project is a starting point for a Flutter application.
+_______________________________________
 
-A few resources to get you started if this is your first Flutter project:
+Il s'agit une application très basique mettant en avant quelques monuments à Dubai avec des notes.
+Cette application m'a permis de m'entrainer et de mettre en avant un beau design crée à partir d'une maquette crée sur Adobe XD.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+# Screenshot
+![Screenshot_20210310-000927](https://user-images.githubusercontent.com/61854420/110551778-72d96900-8136-11eb-8207-82b896253f34.jpg)
