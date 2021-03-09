@@ -1,4 +1,4 @@
-### Dubai monuments
+# Dubai monuments
 
 
 This is a very basic application highlighting some monuments in Dubai with rating stars.
